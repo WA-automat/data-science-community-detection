@@ -1,0 +1,13 @@
+deep
+learning
+approach
+detecting
+candidates
+supernova
+classification
+stellar
+spectra
+based
+convolutional
+neural
+network

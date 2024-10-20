@@ -1,0 +1,17 @@
+研究兴趣
+鲁棒控制
+模糊控制
+control
+markovian
+jump
+stochastic
+systems
+augmented
+sliding
+mode
+observer
+approach
+model
+reduction
+interval
+fuzzy

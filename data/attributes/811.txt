@@ -1,0 +1,5 @@
+centos
+http
+mirrors
+os
+enabled

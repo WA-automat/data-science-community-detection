@@ -1,0 +1,8 @@
+作业
+int
+input
+数字
+print
+体重
+身高
+bmi

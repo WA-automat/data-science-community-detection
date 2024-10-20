@@ -1,0 +1,9 @@
+blind
+color
+image
+watermarking
+scheme
+variable
+steps
+based
+decomposition
